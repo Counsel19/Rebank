@@ -1,0 +1,15 @@
+{
+  "short_name": "Re-bank",
+  "name": "Re-banking System for Unconventional Financial Institution ",
+  "icons": [
+    {
+      "src": "logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
